@@ -1,0 +1,1 @@
+Hildon theme alpha (Nokia Nseries), the Maemo Leste default: the GTK rc file and images of the Hildon UI

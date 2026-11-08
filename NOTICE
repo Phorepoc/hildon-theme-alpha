@@ -1,0 +1,4 @@
+hildon-theme-alpha: the Maemo Leste default Hildon theme as a Phorepoc Catalogue package.
+Theme: maemo-leste/hildon-theme-alpha (pinned in recipes/pins.sh), GPL-3.0 (LICENSE). Its rc file and images are copyright Nokia Corporation 2007, licensed Creative Commons
+Attribution-ShareAlike 2.5 (LICENSES/CC-BY-SA-2.5.txt). Our recipes (fetch.sh, sis.sh) are BSD-2-Clause (LICENSE-RECIPES). The package installs LICENSE, NOTICE, SOURCE-OFFER.txt and LICENSES/*
+to \resource\hildon-theme-alpha\licences\.

@@ -1,0 +1,10 @@
+Hildon theme alpha for Phorepoc (hildon-theme-alpha) -- licence notice and source offer
+
+This package contains the Maemo Leste default Hildon theme (gtk-2.0/gtkrc and images), unmodified, licensed GPL-3.0 (Maemo Leste's repository); the rc file and artwork are Nokia's,
+Creative Commons Attribution-ShareAlike 2.5. The licence texts are installed with this package in \resource\hildon-theme-alpha\licences\.
+
+Corresponding source, available to anyone who has this package, for at least three years after the release you installed it from:
+  1. The theme itself, unmodified: https://github.com/maemo-leste/hildon-theme-alpha at the commit in recipes/pins.sh.
+  2. Our packaging scripts: https://github.com/Phorepoc/hildon-theme-alpha (the release tag of this package).
+Written offer: if the links are no longer available, send a request to the address given on the Phorepoc organisation page https://github.com/Phorepoc and we will send you the corresponding
+source on a medium of your choice for the cost of the medium.
