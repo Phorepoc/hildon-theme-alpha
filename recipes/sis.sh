@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
+# Copyright The Phorepoc Authors
+# SPDX-License-Identifier: BSD-2-Clause
 # sis.sh -- the theme as a SIS (pdk make_sis.py --data-only: files, no component). Needs the Hildon UI package (sapwood engine) installed first.
 set -eu
-REPO=$(cd "$(dirname "$0")/.." && pwd); T=$REPO/dl/hildon-theme-alpha/alpha
+REPO=$(cd "$(dirname "$0")/.." && pwd); export DL=${DL:-$PHOREPOC_BUILD/hildon-stack/dl/hildon-theme-alpha}; T=$DL/hildon-theme-alpha/alpha
 [ -d "$T" ] || bash "$REPO/recipes/fetch.sh"
 ARGS="--dir $T/images=!:/resource/gtk/themes/alpha/images"
 # the wallpapers too: Home draws the theme's first one as its background
