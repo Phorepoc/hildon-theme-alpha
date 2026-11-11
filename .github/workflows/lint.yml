@@ -27,4 +27,4 @@ jobs:
                     | while read -r f; do head -c 4000 "$f" | grep -q -i -E 'SPDX-License-Identifier|copyright' || echo "$f"; done)
           if [ -n "$missing" ]; then echo "no licence line:"; echo "$missing"; exit 1; fi
   layering:
-    uses: Phorepoc/pdk/.github/workflows/layering.yml@8b3dac1d1c64738963e4246ef769429228221af7
+    uses: Phorepoc/pdk/.github/workflows/layering.yml@b8025bf758bbca8cef210560402336c372fd6092
