@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Copyright The Phorepoc Authors
-# SPDX-License-Identifier: BSD-2-Clause
+# SPDX-License-Identifier: GPL-3.0-only
 # fetch.sh -- clone the pinned theme into dl/ (never copied into this repository)
 set -eu
 . "$(dirname "$0")/pins.sh"

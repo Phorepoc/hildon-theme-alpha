@@ -11,4 +11,4 @@ Nothing of the theme is copied into this repository: `recipes/fetch.sh` clones t
 (`\resource\gtk\themes\alpha\gtk-2.0\gtkrc`, `\resource\gtk\themes\alpha\images\*`). The programs read the rc file, point its `pixmap_path` at the install location and name the engine
 by absolute path (hildon-ui `phehildonwin_demo.c` shows how).
 
-Our files (recipes) are BSD-2-Clause (`LICENSE-RECIPES`); the theme is GPL-3.0 (`LICENSE`).
+This repository is under the theme's licence, GPL-3.0 (`LICENSE`), as port work on the Maemo Leste theme. Files adapted from others keep their authors' copyright (see `AUTHORS` and `NOTICE`). Contributions are under the same terms.
