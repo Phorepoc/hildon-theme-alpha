@@ -5,6 +5,6 @@ Creative Commons Attribution-ShareAlike 2.5. The licence texts are installed wit
 
 Corresponding source, available to anyone who has this package, for at least three years after the release you installed it from:
   1. The theme itself, unmodified: https://github.com/maemo-leste/hildon-theme-alpha at the commit in recipes/pins.sh.
-  2. Our packaging scripts: https://github.com/Phorepoc/hildon-theme-alpha (the release tag of this package).
-Written offer: if the links are no longer available, send a request to the address given on the Phorepoc organisation page https://github.com/Phorepoc and we will send you the corresponding
+  2. Phorepoc's packaging scripts: https://github.com/Phorepoc/hildon-theme-alpha (the release tag of this package).
+Written offer: if the links are no longer available, send a request to the address given on the Phorepoc organisation page https://github.com/Phorepoc and Phorepoc will send you the corresponding
 source on a medium of your choice for the cost of the medium.
